@@ -60,4 +60,9 @@ The Test Specs will have an Examples context and a Exercises context.
 
 The Fixtures directory will contain the input data for each exercise.
 
----
+### Extra Gems
+
+* [smart_init](https://rubygems.org/gems/smart_init): I have decided to evaluate
+[smart_init](https://github.com/pawurb/smart_init) with this year's Advent of
+Code. Years passed my `Day` models were initialized in the same manner. I don't
+plan on changing that which, in my opinion, makes a good testing ground for the gem.
