@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'smart_init', '~> 5.1'
 
 gem 'irb'
+gem 'observer'
 gem 'reline'
 
 gem 'amazing_print'

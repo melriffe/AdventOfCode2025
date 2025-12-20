@@ -3,6 +3,7 @@
 ### 🚀 Features
 
 - Solve Day 1, Puzzle 1
+- Solve Day 1, Puzzle 2
 
 ### 💼 Other
 
