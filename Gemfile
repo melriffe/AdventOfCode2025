@@ -2,6 +2,8 @@
 
 source 'https://rubygems.org'
 
+gem 'smart_init', '~> 5.1'
+
 gem 'irb'
 gem 'reline'
 
