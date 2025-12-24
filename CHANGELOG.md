@@ -4,6 +4,7 @@
 
 - Solve Day 1, Puzzle 1
 - Solve Day 1, Puzzle 2
+- Solve Day 2, Puzzle 1
 
 ### 💼 Other
 
@@ -13,3 +14,7 @@
 ### 📚 Documentation
 
 - Add smart_init references to README
+
+### ⚙️ Miscellaneous Tasks
+
+- Remove AoC Data files from repository
