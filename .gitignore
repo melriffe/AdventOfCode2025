@@ -6,3 +6,6 @@
 
 # Rspec
 .rspec_status
+
+# Ignore AoC Data files
+spec/fixtures
